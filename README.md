@@ -1,5 +1,9 @@
 # Howdy!
 
+
+<img align='right' src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="400">
+
+
 ### 🦄 About me
 - Freshman at University of Information Technology
 - Major in Computer Science
@@ -14,21 +18,17 @@
 
 ### 👩‍💻 Programming languages
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+
 <br>
 
 ### ☎ Contact me
-[<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/nttl115)
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://www.facebook.com/nttl115">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Lan's facebook profile" height="30" width="30">
+</a>
 
-<br>
-
-<details>
-<summary>
-  More about mee
-</summary>
-<br>
-  
-Nothing is here 😿
+<a href="https://www.instagram.com/lan.emerald/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="Lan's ig profile" height="30" width="30">
+</a>
 
 
 <!---
@@ -39,4 +39,5 @@ You can click the Preview link to take a look at your changes.
 https://raw.githubusercontent.com/vanviethieuanh/vanviethieuanh/main/README.md 
 https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
 https://github.com/alexandresanlim/Badges4-README.md-Profile
+https://github.com/kautukkundan/Awesome-Profile-README-templates/tree/master/code-styled
 --->
