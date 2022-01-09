@@ -3,6 +3,9 @@
 
 <img align='right' src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="400">
 
+My website: https://emerald-lan.github.io/
+(Still in-progress since I am learning to build it myself 😿)
+
 
 ### 🦄 About me
 - Freshman at University of Information Technology
