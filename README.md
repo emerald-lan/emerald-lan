@@ -31,7 +31,7 @@ My website: https://emerald-lan.github.io/
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Lan's facebook profile" height="30" width="30">
 </a>
 
-<a href="https://www.instagram.com/lan.emerald/">
+<a href="https://www.instagram.com/ntt.lnn/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="Lan's ig profile" height="30" width="30">
 </a>
 
