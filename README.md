@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Contact via</h3>
 <p align="left">
-    <a href="https://www.facebook.com/nttl115">
+    <a href="https://www.facebook.com/nttlnn">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="facebook profile" height="40" width="40">
     </a>
 </p>
